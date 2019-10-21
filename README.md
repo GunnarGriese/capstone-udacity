@@ -56,9 +56,14 @@ Directory `model` contains a tuned version of the Gradient Boosting Regressor.
 
 ## Results<a name="results"></a>
 
-The main findings of this project can be found [here](https://medium.com).
-
 Based on the transcript records, this project focuses on thoroughly analyzing purchasing decisions and how promotional offers, user behavior, and additional demographic factors influence these decisions. To do so, I train tree-based regression models to predict a user's profit per offer type and analyze their characteristics to derive recommended actions for Starbucks. 
+
+#### Main findings:
+
+- Socio-demographic factors highly influence a user's overall profit
+- Past user experience is more important for a user's overall profit than current marketing offers influencing him
+
+More about the main findings of this project can be found [here](https://medium.com/@gunnargriese/predicting-profit-per-user-starbucks-3091917661ac).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
